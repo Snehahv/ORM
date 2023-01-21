@@ -42,7 +42,7 @@ from.models import Employee,EmployeeAdmin
 admin.site.register(Employee,EmployeeAdmin)
 ```
 ## OUTPUT
-![OUTPUT](images/emp.jpg)
+![OUTPUT](./images/emp.jpg)
 
 ## RESULT
 The ORM Employee table is created successfully.
